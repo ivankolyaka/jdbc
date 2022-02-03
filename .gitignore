@@ -1,0 +1,9 @@
+.idea/
+*.log
+build/
+node_modules/
+target/
+test/
+db/
+lib/
+out/
